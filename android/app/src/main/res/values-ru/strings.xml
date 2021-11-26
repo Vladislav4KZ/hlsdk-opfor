@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Opposing Force</string>
+    <string name="launch">ЗАПУСТИТЬ</string>
+    <string name="launch_parameters">АРГУМЕНТЫ КОМАНДНОЙ СТРОКИ</string>
+    <string name="checking_for_updates">Проверка обновлений...</string>
+    <string name="update_required">Update installation is required</string>
+    <string name="update_available">An update for %1$s is required to function properly.</string>
+    <string name="engine_not_found">Xash3D FWGS не установлен</string>
+    <string name="engine_info">Требуется бета Xash3D FWGS для запуска Opposing Force.</string>
+    <string name="update">Обновить</string>
+    <string name="install">Установить</string>
+    <string name="exit">Выйти</string>
+</resources>
