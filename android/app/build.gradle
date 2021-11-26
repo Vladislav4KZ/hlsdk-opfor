@@ -34,7 +34,6 @@ android {
 		externalNativeBuild {
 			ndkBuild {
 				arguments "V=1"
-				commandLine '-v'
 			}
 		}
 	}
